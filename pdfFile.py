@@ -1,3 +1,6 @@
+import os
+import random
+import string
 class pdfFile:
 
     def __init__(self , caminho = None ):
